@@ -2,21 +2,21 @@
   {
     "_id": "1",
     "name": "Milestone 1: Personal Portfolio",
-    "description": "",
+    "description": "Build a Personal Portfolio website with HTML and CSS within 5 days, host it on github to share it with your friends",
     "image": "https://phero-web.nyc3.cdn.digitaloceanspaces.com/promotional-images/Frame-2.jpg",
     "timeTake": 5
   },
   {
     "_id": "2",
     "name": "Milestone 2: Responsive Web Layout",
-    "description": "",
+    "description": "after learning the basic of CSS, you need learn how make an website responcive using vanila CSS. lear flex box, grid lay out, and many more",
     "image": "https://phero-web.nyc3.cdn.digitaloceanspaces.com/promotional-images/Frame-3.jpg",
     "timeTake": 7
   },
   {
     "_id": "3",
     "name": "Milestone 3: CSS Frameworks",
-    "description": "",
+    "description": " now we know the baick of the  HTML, CSS. it's time to move on. let's explore bootstrap, tailwind and it's components library",
     "image": "https://phero-web.nyc3.cdn.digitaloceanspaces.com/promotional-images/Frame-4.jpg",
     "timeTake": 10
   },

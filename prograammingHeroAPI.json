@@ -3,8 +3,8 @@
   "data": [
     {
       "_id": "0",
-      "name": "Milestone 0: Orientation",
-      "description": "",
+      "name":"Orientation",
+      "description": "Build a Personal Portfolio website with HTML and CSS within 5 days, host it on github to share it with your friends",
       "image": "https://phero-web.nyc3.cdn.digitaloceanspaces.com/promotional-images/Frame-1.jpg",
       "modules": [
         {
@@ -19,8 +19,8 @@
     },
     {
       "_id": "1",
-      "name": "Milestone 1: Personal Portfolio",
-      "description": "",
+      "name": "Personal Portfolio",
+      "description": "after learning the basic of CSS, you need learn how make an website responcive using vanila CSS. lear flex box, grid lay out, and many more",
       "image": "https://phero-web.nyc3.cdn.digitaloceanspaces.com/promotional-images/Frame-2.jpg",
       "modules": [
         {
@@ -51,8 +51,8 @@
     },
     {
       "_id": "2",
-      "name": "Milestone 2: Responsive Web Layout",
-      "description": "",
+      "name": "Responsive Web Layout",
+      "description": "now we know the baick of the HTML, CSS. it's time to move on. let's explore bootstrap, tailwind and it's components library",
       "image": "https://phero-web.nyc3.cdn.digitaloceanspaces.com/promotional-images/Frame-3.jpg",
       "modules": [
         {
@@ -84,7 +84,7 @@
     },
     {
       "_id": "3",
-      "name": "Milestone 3: CSS Frameworks",
+      "name": "CSS Frameworks",
       "description": "",
       "image": "https://phero-web.nyc3.cdn.digitaloceanspaces.com/promotional-images/Frame-4.jpg",
       "modules": [
@@ -120,7 +120,7 @@
     },
     {
       "_id": "4",
-      "name": "Milestone 4: Introduction to JavaScript",
+      "name": "Introduction to JavaScript",
       "description": "Learn JavaScript basic concepts. Explore simple problem solving, understand recursion and fundamental programming concepts",
       "image": "https://phero-web.nyc3.cdn.digitaloceanspaces.com/promotional-images/Frame-6.jpg",
       "modules": [
@@ -169,7 +169,7 @@
     },
     {
       "_id": "5",
-      "name": "Milestone 5: Integrate JavaScript",
+      "name": "Integrate JavaScript",
       "description": "Explore DOM. How don works. Add Event bubbles. Create simple interactive website like bank transactions, shopping cart, etc.",
       "image": "https://phero-web.nyc3.cdn.digitaloceanspaces.com/promotional-images/Frame-7.jpg",
       "modules": [
@@ -221,7 +221,7 @@
     },
     {
       "_id": "6",
-      "name": "Milestone 6: Intermediate JavaScript, API",
+      "name": "Intermediate JavaScript, API",
       "description": "Modern JavaScript, ES6, Create Dynamic Website. Implement API. Fetch API and understand tricky javaScript concepts.",
       "image": "https://phero-web.nyc3.cdn.digitaloceanspaces.com/promotional-images/Frame-8.jpg",
       "modules": [
@@ -273,7 +273,7 @@
     },
     {
       "_id": "7",
-      "name": "Milestone 7: Explore Browser & Debug",
+      "name": "Explore Browser & Debug",
       "description": "Explore Browser. Debug JavaScript application. Use Dev tool. Introduction to TypeScript, Regular Expression",
       "image": "https://phero-web.nyc3.cdn.digitaloceanspaces.com/promotional-images/Frame-9.jpg",
       "modules": [
@@ -325,7 +325,7 @@
     },
     {
       "_id": "8",
-      "name": "Milestone 8: Introduction to Simple React",
+      "name": "Introduction to Simple React",
       "description": "React Core concepts. Understanding Props, states, components. How React Works. Build Single Page Application using React.",
       "image": "https://phero-web.nyc3.cdn.digitaloceanspaces.com/promotional-images/Frame-10.jpg",
       "modules": [
@@ -377,7 +377,7 @@
     },
     {
       "_id": "9",
-      "name": "Milestone: 9 React Router and States",
+      "name": "React Router and States",
       "description": "React Router Version 6, Material UI, Axios, Context API, Deploy",
       "image": "https://phero-web.nyc3.cdn.digitaloceanspaces.com/promotional-images/Frame-11.jpg",
       "modules": [
@@ -417,7 +417,7 @@
     },
     {
       "_id": "10",
-      "name": "Milestone 10: React Authentication",
+      "name": "React Authentication",
       "description": "Firebase, Custom Hook, Private Route, Auth Integration, Google Login, Facebook Login, Email and password login",
       "image": "https://phero-web.nyc3.cdn.digitaloceanspaces.com/promotional-images/Frame-12.jpg",
       "modules": [
@@ -469,7 +469,7 @@
     },
     {
       "_id": "11",
-      "name": "Milestone 11: Backend and Database Integration",
+      "name": "Backend and Database Integration",
       "description": "Introduction to Node, express, mongodb. Implement CRUD operations (Get, Post, Update, Delete)",
       "image": "https://phero-web.nyc3.cdn.digitaloceanspaces.com/promotional-images/Frame-13.jpg",
       "modules": [
@@ -510,7 +510,7 @@
     },
     {
       "_id": "12",
-      "name": "Milestone 12: Final Project (Complete Website)",
+      "name": "Final Project (Complete Website)",
       "description": "A full stack website. Nested Route. Admin Role. Payment gateway, JST. Responsive website. Deploy with live site",
       "image": "https://phero-web.nyc3.cdn.digitaloceanspaces.com/promotional-images/Frame-14.jpg",
       "modules": [
@@ -555,7 +555,7 @@
     },
     {
       "_id": "13",
-      "name": "Milestone 13: Intermediate Level React",
+      "name": "Intermediate Level React",
       "description": "Explore React Native. Understanding Next JS. Class Components. Redux core concepts. Styled Components",
       "image": "https://phero-web.nyc3.cdn.digitaloceanspaces.com/promotional-images/Frame-15.jpg",
       "modules": [
@@ -571,7 +571,7 @@
     },
     {
       "_id": "14",
-      "name": "Milestone 14: Interview and Hiring",
+      "name": "Interview and Hiring",
       "description": "Understanding simple Data Structures, Algorithms. Introduction to Object Oriented Programming. How to prepare for interview.",
       "image": "https://phero-web.nyc3.cdn.digitaloceanspaces.com/promotional-images/Frame-16.jpg",
       "modules": [
